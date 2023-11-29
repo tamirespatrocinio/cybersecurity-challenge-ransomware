@@ -21,8 +21,8 @@ python encrypter.py teste.txt
 
 This command will create a file named `teste.txt.ransomwaretroll` in the same directory.
 
-![VirtualBox_01](https://github.com/tamirespatrocinio/cybersecurity-challenge-ransomware/assets/73259410/f9f455a0-1c5d-4080-b534-5ae26ffd1435)
-![VirtualBox_02](https://github.com/tamirespatrocinio/cybersecurity-challenge-ransomware/assets/73259410/ff04e683-55f9-4fc6-91ab-52cd1ed00c5c)
+![VirtualBox_01](https://github.com/tamirespatrocinio/cybersecurity-challenge-ransomware/assets/73259410/0614e0fa-330c-4abf-bf42-8b531ad8fce0)
+![VirtualBox_02](https://github.com/tamirespatrocinio/cybersecurity-challenge-ransomware/assets/73259410/b335f44a-4bee-4e10-8c81-0713daa21fb9)
 
 ### 3. Decryption Script (decrypter.py)
 The `decrypter.py` script reverses the encryption process, taking the encrypted file (`teste.txt.ransomwaretroll`) and restoring it to its original state (`teste.txt`).
@@ -33,8 +33,8 @@ python decrypter.py teste.txt.ransomwaretroll
 
 After running this command, you should find the decrypted file (`teste.txt`) in the same directory.
 
-![VirtualBox_03](https://github.com/tamirespatrocinio/cybersecurity-challenge-ransomware/assets/73259410/6120e90c-aaa4-4679-a76b-586dbcc9eff8)
-![VirtualBox_04](https://github.com/tamirespatrocinio/cybersecurity-challenge-ransomware/assets/73259410/dce2a27b-4c27-4bb3-9a7b-9b542d415471)
+![VirtualBox_03](https://github.com/tamirespatrocinio/cybersecurity-challenge-ransomware/assets/73259410/d5b3b568-e7ea-4ff0-b51a-0e9d32ee2e24)
+![VirtualBox_04](https://github.com/tamirespatrocinio/cybersecurity-challenge-ransomware/assets/73259410/dc1f1ebf-32a8-49ee-9af4-04e25e2eb2b8)
 
 ### Important Notes
 - Do not use this code for any malicious purposes. This project is for educational purposes only.
